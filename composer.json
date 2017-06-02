@@ -1,0 +1,9 @@
+{
+    "name": "bamog/eventmanager",
+    "minimum-stability": "dev",
+    "require": {
+        "swiftmailer/swiftmailer": "@stable",
+        "hybridauth/hybridauth" : "~3.0",
+        "facebook/graph-sdk": "^6.0@dev"
+    }
+}
